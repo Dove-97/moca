@@ -53,12 +53,12 @@
     <UnityVersion>2021.3.19f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\JMO Assets\Welcome Screen\CFXR_WelcomeScreen.cs" />
+    <Compile Include="Assets\Resource\JMO Assets\Welcome Screen\CFXR_WelcomeScreen.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\JMO Assets\Welcome Screen\CFXR.WelcomeScreen.asmdef" />
-    <None Include="Assets\JMO Assets\Welcome Screen\CFXR_WelcomeScreen.uss" />
-    <None Include="Assets\JMO Assets\Welcome Screen\CFXR_WelcomeScreen.uxml" />
+    <None Include="Assets\Resource\JMO Assets\Welcome Screen\CFXR.WelcomeScreen.asmdef" />
+    <None Include="Assets\Resource\JMO Assets\Welcome Screen\CFXR_WelcomeScreen.uss" />
+    <None Include="Assets\Resource\JMO Assets\Welcome Screen\CFXR_WelcomeScreen.uxml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

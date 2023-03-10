@@ -53,13 +53,13 @@
     <UnityVersion>2021.3.19f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\Bloom.cs" />
+    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\Bloom.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\Shader\Bloom.shader" />
-    <None Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\Shader\Bloom.cginc" />
-    <None Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\KinoBloom.Runtime.asmdef" />
-    <None Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\Kino Bloom License.txt" />
+    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\Shader\Bloom.shader" />
+    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\Shader\Bloom.cginc" />
+    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\KinoBloom.Runtime.asmdef" />
+    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\Demo Assets\Kino Bloom\Kino Bloom License.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
