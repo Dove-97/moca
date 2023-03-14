@@ -70,7 +70,11 @@ public class BackGroundController : MonoBehaviour
         }
         if(ControllerManager.GetInstance().dirRight)
         {// 우측이동
-            if (transform.position.x < 0) ;
+            if (transform.position.x < 0)
+            {
+                endPoint -= movemane.x;
+
+            }
 
             else
                 transform.position -= movemane;
